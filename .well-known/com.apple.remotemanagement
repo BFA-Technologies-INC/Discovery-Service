@@ -1,8 +1,0 @@
-{
-"Servers": [
-{
-"Version":"mdm-adde",
-"BaseURL":"https://bfatechnolmichawdqhd.jamfcloud.com/servicediscoveryenrollment/v1/deviceenroll"
-}
-]
-}
